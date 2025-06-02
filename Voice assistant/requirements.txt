@@ -1,0 +1,9 @@
+torch
+transformers
+sounddevice
+soundfile
+whisper
+openwakeword
+num2words
+speechbrain
+numpy
